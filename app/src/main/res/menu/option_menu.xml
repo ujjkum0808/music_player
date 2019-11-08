@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item1" android:title="Album"/>
+    <item android:id="@+id/item2" android:title="Artist"/>
+    <item android:id="@+id/item3" android:title="Share"/>
+    <item android:id="@+id/item4" android:title="Set as ringtone"/>
+    <item android:id="@+id/item5" android:title="Edit song info"/>
+    <item android:id="@+id/item6" android:title="Remove from queue"/>
+    <item android:id="@+id/item7" android:title="Headphones and audio effects"/>
+</menu>
